@@ -1,0 +1,24 @@
+@media screen {
+  img {
+    max-width: 100%;
+  }
+}
+
+/* #main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+} */
+
+#image {
+  display: block;
+  margin: auto;
+}
+
+/* #img-div {
+  
+} */
+
+#tribute-info {
+  width: 600px;
+}
